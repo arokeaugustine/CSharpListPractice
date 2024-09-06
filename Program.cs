@@ -51,6 +51,12 @@ var studentRecord = new List<StudentRecord>()
         Id = 2,
         EnglishScore = 89,
         MathsScore = 90
+    },
+    new StudentRecord
+    {
+        Id = 49,
+        EnglishScore = 20,
+        MathsScore = 78
     }
 };
 
